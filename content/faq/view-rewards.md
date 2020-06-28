@@ -6,11 +6,11 @@ order: 2
 
 We want creators to create quality content that other LBRY users will enjoy and to be able to earn at a comparable or greater amount to alternatives.
 
-If you publish quality original content, you may be eligible to receive additional rewards for views from validated lbry.tv accounts on behalf of us. These tips are separate from tips your followers may issue independently and ineligibility does not mean the content is demonetized.
+If you publish quality original content, you may be eligible to receive additional rewards for views from validated lbry.tv accounts on behalf of us. These rewards are separate from tips your followers may issue independently and ineligibility for LBRY rewards does not mean the content is demonetized.
 
 ## How creator view rewards work
 
-LBRY tracks views from lbry.tv users and other clients. When a user views your content that is reward-verified, we will automatically send an LBC tip for each of their daily first seven views. The view reward amount will vary and may change per LBRY Inc's discretion similar to other rewards based on homepage placements, type and quality of content, and to ensure that not one creator is earning a much higher percentage than others.
+LBRY tracks views from lbry.tv users and other clients. When a user views your content that is reward-verified, we will automatically send an LBC reward for each of their daily first seven views. The view reward amount will vary and may change per LBRY Inc's discretion similar to other rewards based on homepage placements, type and quality of content, and to ensure that not one creator is earning a much higher percentage than others.
 
 Creators will see these on their wallet page as Tips (filter on Received + Tips) and they will be summed up monthly on the Rewards page under `Content View Tips: Month Year`. You may [unlock the tips](https://lbry.com/faq/tipping) to have the show in your balance, but while locked, they help your content be discovered.
 
@@ -18,7 +18,7 @@ Creators will see these on their wallet page as Tips (filter on Received + Tips)
 
 ## Requirements and disqualifications
 
-Not all accounts are eligible for tips.
+Not all accounts are eligible for rewards.
 
 Existing YouTube synced channels with over 500 subscribers and other established creators on LBRY are automatically opted in.
 
